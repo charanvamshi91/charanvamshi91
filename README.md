@@ -1,21 +1,28 @@
+<div align="center">
 
-# Hi 👋 I am Charan Vamshi
+# ☕ CHARAN VAMSHI
 
-### ☕ Java Full Stack Developer
+### Java Full Stack Developer
 
-I'm a passionate Java developer who enjoys building web applications and learning modern backend technologies. Currently focusing on Spring Boot, REST APIs, and enterprise application development.
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&width=700&lines=Java+Developer;Spring+Framework+Developer;Spring+Boot+Learner;REST+API+Developer;Building+Real+World+Projects" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=charanvamshi91&label=Profile+Views&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🚀 Current Focus
+## 🎯 About Me
 
-🌱 Learning Spring Boot
+💻 Passionate Java Developer
 
-💻 Building Java Web Applications
+🌱 Currently Learning Spring Boot
 
-📚 Practicing Core Java & DSA
+🚀 Building Enterprise Java Applications
 
-🗄️ Working with PostgreSQL and MySQL
+🗄 Working with MySQL & PostgreSQL
 
 🔧 Exploring REST API Development
 
@@ -23,168 +30,105 @@ I'm a passionate Java developer who enjoys building web applications and learnin
 
 ## 📫 Connect With Me
 
-[GitHub](https://github.com/charanvamshi91)
-
-(Add LinkedIn when available)
+<p align="left">
+<a href="https://github.com/charanvamshi91">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
 
 ---
 
 ## 👨‍💻 Tech Skills
 
-### Programming Languages
+<p align="center">
 
-☕ Java
+<img src="https://skillicons.dev/icons?i=java" />
 
-🟨 JavaScript
+<img src="https://skillicons.dev/icons?i=html" />
 
-🗄 SQL
+<img src="https://skillicons.dev/icons?i=css" />
 
----
+<img src="https://skillicons.dev/icons?i=bootstrap" />
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=javascript" />
 
-🌐 HTML
+<img src="https://skillicons.dev/icons?i=spring" />
 
-🎨 CSS
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-🅱 Bootstrap
+<img src="https://skillicons.dev/icons?i=postgres" />
 
----
+<img src="https://skillicons.dev/icons?i=git" />
 
-### Backend
+<img src="https://skillicons.dev/icons?i=github" />
 
-⚙ JSP
+<img src="https://skillicons.dev/icons?i=maven" />
 
-⚙ Servlets
+<img src="https://skillicons.dev/icons?i=eclipse" />
 
-🌱 Spring Framework
-
-🚀 Spring Boot (Learning)
-
-🔗 REST APIs
+</p>
 
 ---
 
-### Databases
-
-🐬 MySQL
-
-🐘 PostgreSQL
-
----
-
-### Tools
-
-🔧 Git
-
-📂 GitHub
-
-📦 Maven
-
-🧪 SOAP UI
-
-💻 Eclipse IDE
-
----
-
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
 ### 🏥 PharmaTech
 
 Pharmacy Billing & Inventory Management System
 
-Technologies Used:
+**Tech Stack**
 
-* Java
-* JSP
-* JDBC
-* PostgreSQL
-* Bootstrap
-
-Features:
-
-* Billing Management
-* Inventory Tracking
-* Product Management
-* Sales Reports
+Java • JSP • JDBC • PostgreSQL • Bootstrap
 
 ---
 
 ### 🏬 DMart Billing & Inventory Management System
 
-Technologies Used:
+Billing and Stock Management System
 
-* Java
-* Spring Framework
-* Spring MVC
-* REST APIs
-* PostgreSQL
-* Maven
+**Tech Stack**
 
-Features:
-
-* Product Management
-* Inventory Tracking
-* Billing System
-* Dashboard Reporting
+Java • Spring Framework • Spring MVC • REST APIs • PostgreSQL • Maven
 
 ---
 
-## 📚 Learning Journey
+## 📚 Currently Learning
 
-| Technology       | Status |
-| ---------------- | ------ |
-| Core Java        | ✅      |
-| HTML             | ✅      |
-| CSS              | ✅      |
-| Bootstrap        | ✅      |
-| JSP              | ✅      |
-| Servlets         | ✅      |
-| Git & GitHub     | ✅      |
-| MySQL            | ✅      |
-| PostgreSQL       | ✅      |
-| Spring Framework | 🔄     |
-| REST APIs        | 🔄     |
-| Spring Boot      | 🔄     |
-
----
-
-## ⚡ Developer Profile
-
-```java
-class Developer {
-
-    String name = "Charan Vamshi";
-
-    String role = "Java Full Stack Developer";
-
-    String[] skills = {
-        "Java",
-        "JSP",
-        "Servlets",
-        "Spring Framework",
-        "REST APIs",
-        "PostgreSQL"
-    };
-
-    String currentlyLearning = "Spring Boot";
-}
-```
+* Spring Boot
+* REST API Development
+* Spring MVC Architecture
+* Enterprise Application Development
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=charanvamshi91\&show_icons=true)
+<p align="center">
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charanvamshi91\&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=charanvamshi91&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanvamshi91&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 💡 Quote
+## 🔥 GitHub Streak
 
-"Consistency beats intensity."
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=charanvamshi91&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 💡 Favorite Quote
+
+> "Code. Learn. Build. Repeat."
 
 ---
 
 ### Show some ❤️ by starring repositories if you find them useful.
+
+</div>
