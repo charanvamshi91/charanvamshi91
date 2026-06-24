@@ -1,8 +1,6 @@
 # Hi 👋 I am Charan Vamshi
 
-I'm a Java Full Stack Developer passionate about building web applications and learning modern backend technologies.
-
-Currently focused on Spring Boot, REST APIs, and enterprise application development using Java technologies.
+I'm a Java Full Stack Developer passionate about building web applications using Java technologies and continuously learning modern backend development.
 
 ---
 
@@ -22,11 +20,11 @@ Currently focused on Spring Boot, REST APIs, and enterprise application developm
 
 ## 👨‍💻 Tech Skills
 
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,javascript,spring,mysql,postgres,git,github,maven,eclipse" />
 </p>
 
-### Additional Skills
+### Additional Technologies
 
 * JSP
 * Servlets
@@ -36,39 +34,15 @@ Currently focused on Spring Boot, REST APIs, and enterprise application developm
 
 ---
 
-## 🎯 Current Focus
-
-* Learning Spring Boot
-* Building REST APIs
-* Developing Enterprise Java Applications
-* Improving Database Design Skills
-* Practicing Core Java & DSA
-
----
-
 ## 🚀 Current Projects
 
 ### 🏥 PharmaTech
 
-**Pharmacy Billing & Inventory Management System**
-
-A web-based application designed to manage pharmacy operations including billing, inventory tracking, product management, and sales reporting.
-
-**Technology Stack**
-
-Java • JSP • JDBC • PostgreSQL • Bootstrap
-
----
+Pharmacy Billing & Inventory Management System
 
 ### 🏬 DMart Billing & Inventory Management System
 
-**Retail Billing & Inventory Management Application**
-
-A Spring-based application developed for inventory tracking, product management, billing operations, and REST API integration.
-
-**Technology Stack**
-
-Java • Spring Framework • Spring MVC • REST APIs • PostgreSQL • Maven
+Retail Billing & Inventory Management Application
 
 ---
 
@@ -76,8 +50,7 @@ Java • Spring Framework • Spring MVC • REST APIs • PostgreSQL • Maven
 
 * Spring Boot
 * REST API Development
-* Spring MVC Architecture
-* Enterprise Java Application Development
+* Enterprise Application Development
 
 ---
 
@@ -86,20 +59,21 @@ Java • Spring Framework • Spring MVC • REST APIs • PostgreSQL • Maven
 * Java Development
 * Backend Development
 * Spring Framework
-* REST API Development
 * Database Design
-* Enterprise Application Development
+* REST APIs
 
 ---
 
-## 🏆 GitHub Trophies
+## 📚 Technologies I Work With
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=charanvamshi91&theme=flat&margin-w=10"/>
-</p>
+| Category    | Technologies                                |
+| ----------- | ------------------------------------------- |
+| Programming | Java, JavaScript                            |
+| Frontend    | HTML, CSS, Bootstrap                        |
+| Backend     | JSP, Servlets, Spring Framework, Spring MVC |
+| Database    | MySQL, PostgreSQL                           |
+| Tools       | Git, GitHub, Maven, SOAP UI, Eclipse        |
 
 ---
 
 ### Show some ❤️ by starring repositories if you find them useful.
-
-### Thanks for visiting my profile 🚀
