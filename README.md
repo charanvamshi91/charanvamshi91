@@ -14,7 +14,7 @@
 * 💻 Building Java Full Stack Applications
 * 🗄️ Working with PostgreSQL
 * 🚀 Interested in Backend Development
-* 📚 Currently practicing DSA and Collections
+
 
 ---
 
