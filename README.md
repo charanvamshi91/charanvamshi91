@@ -1,32 +1,14 @@
-<div align="center">
+# Hi 👋 I am Charan Vamshi
 
-# ☕ CHARAN VAMSHI
+I'm a Java Full Stack Developer passionate about building web applications and learning modern backend technologies.
 
-### Java Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&width=700&lines=Java+Developer;Spring+Framework+Developer;Spring+Boot+Learner;REST+API+Developer;Building+Real+World+Projects" />
-
----
-
-## 🎯 About Me
-
-💻 Passionate Java Full Stack Developer
-
-🌱 Currently Learning Spring Boot
-
-🚀 Building Enterprise Java Applications
-
-🗄 Working with MySQL & PostgreSQL
-
-🔧 Exploring REST API Development
-
-📚 Continuously improving Java and Backend Development skills
+Currently focused on Spring Boot, REST APIs, and enterprise application development using Java technologies.
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
+<p>
 <a href="https://github.com/charanvamshi91">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
@@ -41,50 +23,38 @@
 ## 👨‍💻 Tech Skills
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java" />
-
-<img src="https://skillicons.dev/icons?i=html" />
-
-<img src="https://skillicons.dev/icons?i=css" />
-
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-
-<img src="https://skillicons.dev/icons?i=javascript" />
-
-<img src="https://skillicons.dev/icons?i=spring" />
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-<img src="https://skillicons.dev/icons?i=git" />
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-<img src="https://skillicons.dev/icons?i=maven" />
-
-<img src="https://skillicons.dev/icons?i=eclipse" />
-
+<img src="https://skillicons.dev/icons?i=java,html,css,bootstrap,javascript,spring,mysql,postgres,git,github,maven,eclipse" />
 </p>
 
-<p align="center">
+### Additional Skills
 
-JSP • Servlets • Spring MVC • REST APIs • SOAP UI
-
-</p>
+* JSP
+* Servlets
+* Spring MVC
+* REST APIs
+* SOAP UI
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 Current Focus
+
+* Learning Spring Boot
+* Building REST APIs
+* Developing Enterprise Java Applications
+* Improving Database Design Skills
+* Practicing Core Java & DSA
+
+---
+
+## 🚀 Current Projects
 
 ### 🏥 PharmaTech
 
 **Pharmacy Billing & Inventory Management System**
 
-A web-based pharmacy management solution developed using Java technologies to manage billing, inventory, products, and sales operations.
+A web-based application designed to manage pharmacy operations including billing, inventory tracking, product management, and sales reporting.
 
-**Tech Stack**
+**Technology Stack**
 
 Java • JSP • JDBC • PostgreSQL • Bootstrap
 
@@ -94,19 +64,30 @@ Java • JSP • JDBC • PostgreSQL • Bootstrap
 
 **Retail Billing & Inventory Management Application**
 
-A Spring-based inventory and billing system developed to manage products, stock, billing operations, and REST API integrations.
+A Spring-based application developed for inventory tracking, product management, billing operations, and REST API integration.
 
-**Tech Stack**
+**Technology Stack**
 
 Java • Spring Framework • Spring MVC • REST APIs • PostgreSQL • Maven
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
 * Spring Boot
-* Spring MVC Architecture
 * REST API Development
+* Spring MVC Architecture
+* Enterprise Java Application Development
+
+---
+
+## 💡 Areas of Interest
+
+* Java Development
+* Backend Development
+* Spring Framework
+* REST API Development
+* Database Design
 * Enterprise Application Development
 
 ---
@@ -114,45 +95,11 @@ Java • Spring Framework • Spring MVC • REST APIs • PostgreSQL • Maven
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=charanvamshi91&theme=tokyonight&margin-w=10"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=charanvamshi91&theme=flat&margin-w=10"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### Show some ❤️ by starring repositories if you find them useful.
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=charanvamshi91&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanvamshi91&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=charanvamshi91&theme=tokyonight"/>
-
-</p>
-
----
-
-## 💡 Favorite Quote
-
-> "Code. Learn. Build. Repeat."
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in discussing Java, Spring, Backend Development, and Software Engineering.
-
-⭐ If you like my work, consider starring my repositories.
-
-🚀 Thanks for visiting my profile!
+### Thanks for visiting my profile 🚀
