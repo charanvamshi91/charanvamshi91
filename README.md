@@ -6,22 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&width=700&lines=Java+Developer;Spring+Framework+Developer;Spring+Boot+Learner;REST+API+Developer;Building+Real+World+Projects" />
 
-<br>
-
-<a href="https://github.com/charanvamshi91">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/charan-vamshi-yerukala91/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=charanvamshi91&label=Profile+Views&style=for-the-badge"/>
-
-</div>
-
 ---
 
 ## 🎯 About Me
