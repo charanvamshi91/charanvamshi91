@@ -89,7 +89,6 @@ Professionally, I'm a Java Full Stack Developer.
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=charanvamshi91&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 <p align="center">
