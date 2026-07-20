@@ -98,4 +98,5 @@ Professionally, I'm a Java Full Stack Developer.
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=charanvamshi91&theme=tokyo-night&hide_border=true"/>
+  
 </p>
